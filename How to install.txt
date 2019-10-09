@@ -1,0 +1,4 @@
+1. npm init for package.json file
+2. npm install node-sass --save-dev - FOR SASS saving in package.json file
+3. npm run compile:sass for SASS compilation
+4. live-server for Live Server
